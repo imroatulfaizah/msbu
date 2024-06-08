@@ -5,4 +5,5 @@ Balanced Bracket
 ![image](https://github.com/imroatulfaizah/msbu/assets/23720075/05c0e280-d461-442d-8e6a-5712c5ac3880)
 
 Highest Palindrome
-![image](https://github.com/imroatulfaizah/msbu/assets/23720075/12e4a558-7231-42cf-845d-939ed3379349)
+![image](https://github.com/imroatulfaizah/msbu/assets/23720075/f33a5e20-2248-4e14-8262-1613f545f3c6)
+
