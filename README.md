@@ -1,4 +1,5 @@
 Weighted Strings
+
 ![image](https://github.com/imroatulfaizah/msbu/assets/23720075/2e56ec1a-e799-4095-8989-32c7ce4f3d33)
 
 Balanced Bracket
@@ -18,5 +19,6 @@ Therefore, the space complexity is also O(n), as the maximum amount of space nee
 In summary, the code has a linear time complexity of O(n) because it processes each character in the input string exactly once. The space complexity is also O(n), as it depends on the number of opening brackets that might need to be stored in the stack in the worst case.
 
 Highest Palindrome
+
 ![image](https://github.com/imroatulfaizah/msbu/assets/23720075/f33a5e20-2248-4e14-8262-1613f545f3c6)
 
