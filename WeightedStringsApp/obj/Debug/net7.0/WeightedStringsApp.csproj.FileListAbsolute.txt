@@ -1,0 +1,15 @@
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\bin\Debug\net7.0\WeightedStringsApp.exe
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\bin\Debug\net7.0\WeightedStringsApp.deps.json
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\bin\Debug\net7.0\WeightedStringsApp.runtimeconfig.json
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\bin\Debug\net7.0\WeightedStringsApp.dll
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\bin\Debug\net7.0\WeightedStringsApp.pdb
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.csproj.AssemblyReference.cache
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.AssemblyInfoInputs.cache
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.AssemblyInfo.cs
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.csproj.CoreCompileInputs.cache
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.dll
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\refint\WeightedStringsApp.dll
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.pdb
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\WeightedStringsApp.genruntimeconfig.cache
+C:\Users\FAIZAH\source\repos\WeightedStringsApp\obj\Debug\net7.0\ref\WeightedStringsApp.dll

@@ -1,0 +1,15 @@
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\bin\Debug\net7.0\HighestPalindrome.exe
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\bin\Debug\net7.0\HighestPalindrome.deps.json
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\bin\Debug\net7.0\HighestPalindrome.runtimeconfig.json
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\bin\Debug\net7.0\HighestPalindrome.dll
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\bin\Debug\net7.0\HighestPalindrome.pdb
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.csproj.AssemblyReference.cache
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.AssemblyInfoInputs.cache
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.AssemblyInfo.cs
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.dll
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\refint\HighestPalindrome.dll
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.pdb
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\HighestPalindrome.genruntimeconfig.cache
+C:\Users\FAIZAH\source\repos\MSBU\HighestPalindrome\obj\Debug\net7.0\ref\HighestPalindrome.dll
